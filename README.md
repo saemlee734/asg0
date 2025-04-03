@@ -32,11 +32,9 @@ You can view the live version of this project at:
 ## Notes to Grader
 - The **angle calculation** uses the dot product formula.
 - The **area calculation** uses the cross product magnitude.
-- Extra effort was put into UI clarity and result transparency (vectors are color-coded).
-- Any additional features or bugs encountered should be noted in the browser console.
 
 ## Installation (Optional for Local Testing)
 If you want to run this project locally:
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/asg0.git
+   git clone https://github.com/saemlee734/asg0.git
