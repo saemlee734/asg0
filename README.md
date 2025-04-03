@@ -27,7 +27,7 @@ This project is a web-based interactive tool that allows users to input and visu
 
 ## Live Demo
 You can view the live version of this project at:  
-[https://your-username.github.io/asg0/asg0.html](https://your-username.github.io/asg0/asg0.html)
+[https://saemlee734.github.io/asg0/asg0.html](https://saemlee734.github.io/asg0/asg0.html)
 
 ## Notes to Grader
 - The **angle calculation** uses the dot product formula.
